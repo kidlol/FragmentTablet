@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOTOR MANIA</string>
+    <string name="details_button">MOTOR MANIA</string>
+    <string name="resep_title">MOTOR MANIA</string>
+    <string name="resep_description">MOTOR MANIA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

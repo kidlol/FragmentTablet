@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856319915604",
+    "firebase_url": "https://fragmenttablet-44fe4.firebaseio.com",
+    "project_id": "fragmenttablet-44fe4",
+    "storage_bucket": "fragmenttablet-44fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856319915604:android:8384725e18f534dd",
+        "android_client_info": {
+          "package_name": "com.example.agussantoso.fragmenttablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856319915604-m82rko0npbjp2cnq6js44rgs12enbbou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agussantoso.fragmenttablet",
+            "certificate_hash": "70951f40ee3b4b4ddf6acc214a664ce592a7d8ee"
+          }
+        },
+        {
+          "client_id": "856319915604-ldub2vem6mh7dsuf44644j00h0nvekif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85zuU-ND58LwEAsm4eL8964iDjKZ1itM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856319915604-ldub2vem6mh7dsuf44644j00h0nvekif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
